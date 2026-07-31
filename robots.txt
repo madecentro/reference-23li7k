@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madecentro.github.io/reference-23li7k/sitemap.xml
